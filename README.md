@@ -5,4 +5,4 @@
 ![image](https://github.com/Wisdozzh/BaseRecyclerViewAdapterHelperDemo/blob/master/image/WechatIMG685.jpeg)
 ![image](https://github.com/Wisdozzh/BaseRecyclerViewAdapterHelperDemo/blob/master/image/s4ux8-teknn.gif)
 
-APK下载地址：https://fir.im/pseg
+APK下载地址：http://d.7short.com/pseg
